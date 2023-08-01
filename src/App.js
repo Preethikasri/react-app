@@ -1,4 +1,4 @@
-import DragDropFiles from "./components/drag_file";
+import DragDropFiles from "./components/Drag_drop";
 
 const App = () => {
     return (
